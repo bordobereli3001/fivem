@@ -3,7 +3,7 @@ ns: CFX
 apiset: server
 ---
 ## GET_ALL_VEHICLES
-
+f5
 ```c
 object GET_ALL_VEHICLES();
 ```
